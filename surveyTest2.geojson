@@ -1588,6 +1588,6 @@
 { "type": "Feature", "properties": { "x": 368761.0, "y": 7346596.0, "z": "20.081" }, "geometry": { "type": "Point", "coordinates": [ -46.289183730771171, -23.988578933539358 ] } },
 { "type": "Feature", "properties": { "x": 368762.0, "y": 7346596.0, "z": "20.073" }, "geometry": { "type": "Point", "coordinates": [ -46.289173902386423, -23.988579016150975 ] } },
 { "type": "Feature", "properties": { "x": 368763.0, "y": 7346596.0, "z": "20.065" }, "geometry": { "type": "Point", "coordinates": [ -46.28916407400164, -23.988579098761949 ] } },
-{ "type": "Feature", "properties": { "x": 368764.0, "y": 7346596.0, "z": "20.064" }, "geometry": { "type": "Point", "coordinates": [ -46.289154245616821, -23.988579181372288 ] } },
+{ "type": "Feature", "properties": { "x": 368764.0, "y": 7346596.0, "z": "20.064" }, "geometry": { "type": "Point", "coordinates": [ -46.289154245616821, -23.988579181372288 ] } }
 ]
 }
